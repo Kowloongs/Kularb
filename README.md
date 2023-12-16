@@ -1,3 +1,3 @@
-# Kularb
+# Kularb - Classic MMORPG Game Server
 
 

@@ -1,7 +1,7 @@
 # Kularb
 
 ## Overview
-Kularb - Classic MMORPG Game Server
+Kularb - Classic MMORPG Server
 
 ## Architecture
 System Architecture Description
